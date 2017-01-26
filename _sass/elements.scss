@@ -117,6 +117,10 @@ img {
     -ms-interpolation-mode: bicubic;
     image-rendering: optimizeQuality;
 }
+.img-logo {
+	border: 3px solid $white;
+	height: 120px;
+}
 .img-circle {
 	border-radius: 50%;
 	border: 3px solid $white;
