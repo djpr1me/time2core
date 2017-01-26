@@ -1,8 +1,8 @@
 # Site
 title:              Time2Core
-bio:                'Hardcore promotion from Saint P.'
+bio:                'Hardcore promotion in St. Petersburg, Russia.'
 description:        "We've already done this and we did it again!"
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 logo_author:        'assets/img/logo-white.png'
