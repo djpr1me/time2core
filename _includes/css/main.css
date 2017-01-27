@@ -109,10 +109,10 @@ header {
 }
 
 header .container {
-    position: relative;
+    /*position: relative;
     text-align: center;
     padding: 100px 15px 100px;
-    width: 100%;
+    width: 100%;*/
 }
 
 header img {
@@ -141,12 +141,12 @@ header .intro-text .skills {
     }
 
     header .container {
-        position: absolute;
+        /*position: absolute;
         top: 50%;
         -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
         transform: translateY(-50%);
-        padding: 0 50px;
+        padding: 0 50px;*/
     }
 
     header .intro-text .name {
