@@ -3,10 +3,11 @@ layout: default
 modal-id: 2
 date: 2017-01-27
 img: cake.png
-alt: TBA
+alt: Blackness
 project-date: October 2016
 client: Time2Core
 category: Rawstyle
+title: Blackness
 description: Local RAW hardstyle and hardcore party series that were held in various night clubs in St. Petersburg, Russia. Supported by DJs: Pr1me, Hardimpulse, Red Machine, Arnold, Encoder, and many others.
 
 ---
