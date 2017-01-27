@@ -130,10 +130,14 @@ header .intro-text .skills {
 }
 
 @media(min-width:768px) {
+
+    header {
+        min-height: 100%;
+    }
+
     header .container {
         padding-top: 200px;
         padding-bottom: 100px;
-        min-height: 100%;
     }
 
     header .intro-text .name {
