@@ -90,7 +90,17 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+
 header {
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: center;
+    background-image: url(../img/header.jpg)
     text-align: center;
     color: #fff;
     background: #{{ site.color.primary }};
@@ -104,6 +114,7 @@ header .container {
 header img {
     display: block;
     margin: 0 auto 20px;
+    width: 480px;
 }
 
 header .intro-text .name {
