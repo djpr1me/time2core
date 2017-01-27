@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2017-01-27
-img: cabin.png
+img: viva-alien.jpg
 alt: Viva La Hardcore
 project-date: January 2013
 client: Time2Core
