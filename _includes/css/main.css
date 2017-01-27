@@ -103,8 +103,9 @@ header {
     background-image: url(../img/header.jpg);
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
 }
+
+@media (min-width: 768px) { header { min-height: 100%; }
 
 header .container {
     padding-top: 100px;
