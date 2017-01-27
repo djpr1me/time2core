@@ -37,7 +37,7 @@ h6 {
 }
 
 hr.star-light,
-hr.star-white,
+hr.star-secondary,
 hr.star-primary {
     margin: 25px auto 30px;
     padding: 0;
