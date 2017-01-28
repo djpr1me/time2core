@@ -7,7 +7,7 @@ alt: Viva La Hardcore
 project-date: January 2013
 client: Time2Core
 category: Hardcore
-title: Viva La Hardcore - The Last Hero
+title: "Viva La Hardcore - The Last Hero"
 description: Third event in series "Viva La Hardcore" with guest from Italy Meccano Twins (Traxtorm Records). Held in 2013 in Moscow, Russia.
 
 ---
