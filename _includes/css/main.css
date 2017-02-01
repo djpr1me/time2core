@@ -121,6 +121,10 @@ header img {
     width: 480px;
 }
 
+.dfence {
+    padding-top: 300px;
+}
+
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
