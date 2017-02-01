@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "time2core";
-  src:url("fonts/time2core.eot");
-  src:url("fonts/time2core.eot?#iefix") format("embedded-opentype"),
-    url("fonts/time2core.woff") format("woff"),
-    url("fonts/time2core.ttf") format("truetype"),
-    url("fonts/time2core.svg#time2core") format("svg");
+  src:url("../fonts/time2core.eot");
+  src:url("../fonts/time2core.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/time2core.woff") format("woff"),
+    url("../fonts/time2core.ttf") format("truetype"),
+    url("../fonts/time2core.svg#time2core") format("svg");
   font-weight: normal;
   font-style: normal;
 
