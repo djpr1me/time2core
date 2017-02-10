@@ -524,3 +524,8 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.dfence_buy {
+  width:160px;
+  margin:0 auto;
+}
