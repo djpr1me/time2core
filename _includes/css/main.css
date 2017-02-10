@@ -103,7 +103,8 @@ header {
     -o-background-size: cover;
     background-position: center;
     /*background-image: url(../img/header-party.jpg);*/
-    background-image: url(../img/header-dfence.jpg);
+    /*background-image: url(../img/header-dfence.jpg);*/
+    background-image: url(../img/viva-la-hardcore-poster-web.jpg);
     text-align: center;
     color: #fff;
 }
