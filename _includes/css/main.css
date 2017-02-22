@@ -132,7 +132,7 @@ header img {
     padding-top: 18em;
 }
 
-@media only screen and (min-width:960px) {
+@media only screen and (min-width:768px) {
   .dfence {
     padding-top: 26em;
   }
