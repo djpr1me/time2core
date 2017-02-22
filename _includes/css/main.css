@@ -138,9 +138,9 @@ header img {
   }
 }
 
-@media(min-width:1440px) {
+@media(min-width:1200px) {
   .dfence {
-    padding-top: 26em;
+    padding-top: 39em;
   }
 }
 
