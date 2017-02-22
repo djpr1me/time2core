@@ -138,6 +138,12 @@ header img {
   }
 }
 
+@media(min-width:1440px) {
+  .dfence {
+    padding-top: 26em;
+  }
+}
+
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
