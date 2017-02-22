@@ -132,13 +132,19 @@ header img {
     padding-top: 18em;
 }
 
-@media(min-width:768px) {
+@media only screen and (min-width:960px) {
   .dfence {
     padding-top: 26em;
   }
 }
 
-@media(min-width:1200px) {
+@media only screen and (min-width:1440px) {
+  .dfence {
+    padding-top: 39em;
+  }
+}
+
+@media only screen and (min-width:2000px) {
   .dfence {
     padding-top: 39em;
   }
