@@ -1,13 +1,13 @@
 ---
 layout: default
-modal-id: 1
-date: 2017-03-31
-img: viva-dfence.jpg
-alt: Viva La Hardcore
-project-date: March 2017
+modal-id: 7
+date: 2018-03-13
+img: pr1me-bday.jpg
+alt: PR1ME B-DAY
+project-date: November 2017
 client: Time2Core
 category: Hardcore
-title: "Viva La Hardcore <br /> ft. D-Fence"
-description: Mysterious D-Fence (Neophyte Records) has crushed dance floor first time in Russia. The event was held in club Amper March 2017 in St. Petersburg, Russia.
+title: "PR1ME B-DAY"
+description: DJ PR1ME's birthday party. November 2017, club Les Villa, St. Petersburg, Russia.
 
 ---
